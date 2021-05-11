@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSLS_Philip", "RPSLS_Philip\RPSLS_Philip.csproj", "{AFE7E8C0-99D1-4CF6-955E-F81C31A5D5D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE7E8C0-99D1-4CF6-955E-F81C31A5D5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE7E8C0-99D1-4CF6-955E-F81C31A5D5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE7E8C0-99D1-4CF6-955E-F81C31A5D5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE7E8C0-99D1-4CF6-955E-F81C31A5D5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85877686-32FE-45D9-A93E-700884D6A532}
+	EndGlobalSection
+EndGlobal

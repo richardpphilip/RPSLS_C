@@ -1,0 +1,13 @@
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\bin\Debug\netcoreapp3.1\RPSLS_Philip.exe
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\bin\Debug\netcoreapp3.1\RPSLS_Philip.deps.json
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\bin\Debug\netcoreapp3.1\RPSLS_Philip.runtimeconfig.json
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\bin\Debug\netcoreapp3.1\RPSLS_Philip.runtimeconfig.dev.json
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\bin\Debug\netcoreapp3.1\RPSLS_Philip.dll
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\bin\Debug\netcoreapp3.1\RPSLS_Philip.pdb
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.AssemblyInfo.cs
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.dll
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.pdb
+C:\Users\richa\source\repos\RPSLS_Philip\RPSLS_Philip\obj\Debug\netcoreapp3.1\RPSLS_Philip.genruntimeconfig.cache

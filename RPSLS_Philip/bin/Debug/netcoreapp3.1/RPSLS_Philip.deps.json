@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RPSLS_Philip/1.0.0": {
+        "runtime": {
+          "RPSLS_Philip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPSLS_Philip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
